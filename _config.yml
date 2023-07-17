@@ -24,7 +24,7 @@ github_link: https://github.com/FelixHT/
 twitter: https://twitter.com/felixtaschbach/
 
 # Images 
-avatar: https://img.yliu.me/avatar.jpg
+avatar: ./assets/img/avatar.jpeg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
