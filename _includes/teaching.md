@@ -7,6 +7,9 @@
     Teaching Assistant, Python for Biologists at <a href="https://www.ucsd.edu/">University of California San Diego</a>, Winter 2023 (upcoming)
   </li>
   <li>
+    Teaching Assistant, Computational Neuroscience at <a href="https://www.neuromatchacademy.org/">Neuromatch Academy</a>, Summer 2022
+  </li>
+  <li>
     Graduate Instruction Assistant, Bioinformatics Laboratory at <a href="https://www.ucsd.edu/">University of California San Diego</a>, Spring 2022
   </li>
   <li>
