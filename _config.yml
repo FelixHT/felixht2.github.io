@@ -1,8 +1,8 @@
 # Basic Information 
-title: Felix Taschbacch
+title: Felix Taschbach
 position: PhD Candidate
 affiliation: University of California San Diego
-affiliation_link: https://ucsd.edu/
+affiliation_link: https://biology.ucsd.edu/
 email: ftaschbach (at) ucsd.edu
 
 # Search Engine Optimization (SEO)
@@ -14,14 +14,15 @@ description: Felix Taschbach is a Ph.D. candidate at UCSD. His research lies on 
 enable_hopkins_logo: true
 
 # The option is used to show the last update time.
-enable_last_update: false
+enable_last_update: true
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=tytm25sAAAAJ
-# cv_link: https://files.yliu.me/Yaoyao_Liu_Curriculum_Vitae.pdf
+# cv_link:
 github_link: https://github.com/FelixHT/
-# linkedin: https://www.linkedin.com/in/liuyaoyao/
+linkedin: https://www.linkedin.com/in/felix-taschbach/
 twitter: https://twitter.com/felixtaschbach/
+
 
 # Images 
 avatar: ./assets/img/avatar.jpeg
@@ -29,8 +30,8 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+#footnote: Feel free to use my website's source code.
+#footnote_link: https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # clustrmaps_id: 

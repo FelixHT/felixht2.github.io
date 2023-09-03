@@ -1,0 +1,18 @@
+main:
+
+  - title: Amygdalostriatal transition zone neurons encode sustained valence to direct conditioned behaviors
+    authors: Fergil Mills, Christopher R Lee, James R Howe, Hao Li, Shan Shao, Maria N Keisler, Mackenzie E Lemieux, <strong>Felix H Taschbach</strong>, Laurel R Keyes, Matilde R Borio, Hannah S Chen, Reesha R Patel, Alexa L Gross, Jeremy Delahanty, Christian Cazares, Liezl Maree, Romy Wichmann, Talmo D Pereira, Marcus K Benna, Cory M Root, Kay M Tye
+    conference_short: bioRxiv
+    conference: bioRxiv
+    pdf: https://www.biorxiv.org/content/10.1101/2022.10.28.514263.full.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:T5-TD939s48J:scholar.google.com/&output=citation&scisdr=ClH82XUBEI_UyFbIuHM:AFWwaeYAAAAAZPPOoHPSZx15oFZi9uQy1TCndCo&scisig=AFWwaeYAAAAAZPPOoOYImkmfpVwPIL1BzGLOCkY&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/teaser/teaser_fergil_ASt.jpeg
+
+  - title: Cortical ensembles orchestrate social competition through hypothalamic outputs
+    authors: Nancy Padilla-Coreano, Kanha Batra, Makenzie Patarino, Zexin Chen, Rachel R Rock, Ruihan Zhang, Sébastien B Hausmann, Javier C Weddington, Reesha Patel, Yu E Zhang, Hao-Shu Fang, Srishti Mishra, Deryn O LeDuke, Jasmin Revanna, Hao Li, Matilde Borio, Rachelle Pamintuan, Aneesh Bal, Laurel R Keyes, Avraham Libster, Romy Wichmann, Fergil Mills, <strong>Felix H Taschbach</strong>, Gillian A Matthews, James P Curley, Ila R Fiete, Cewu Lu, Kay M Tye
+    conference_short: Nature
+    conference: Nature
+    pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9576144/pdf/nihms-1838406.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Q6qafERCt8UJ:scholar.google.com/&output=citation&scisdr=ClH82XUBEI_UyFbEZWo:AFWwaeYAAAAAZPPCfWoQc8YSWD-aGOecO9Wpgtg&scisig=AFWwaeYAAAAAZPPCfdKjOmh-7gtWvBNar1ic-d0&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/teaser/teaser_nancy_kanha.jpg
+

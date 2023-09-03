@@ -1,12 +1,11 @@
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #002D72;
+    background-color: #182B49;
     overflow: hidden;
 	position:fixed;
 	z-index:999;
     width:100%;
   }
-
 
   .topnav #myLinks {
     display: inline;
@@ -17,7 +16,7 @@
 }
 
   .topnav img {
-    margin-bottom:-16.5pt;
+    margin-bottom:-12.5pt;
     margin-top:-12.5pt;
     margin-left:30%;
   }

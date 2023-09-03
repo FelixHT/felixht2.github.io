@@ -4,9 +4,18 @@
 
 <ul>
   <li>
-    Head Teaching Assistant, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.uni-saarland.de/">Universität des Saarlandes</a>, 2022
+    Teaching Assistant, Python for Biologists at <a href="https://www.ucsd.edu/">University of California San Diego</a>, Winter 2023 (upcoming)
   </li>
   <li>
-    Teaching Assistant, <a href="https://www.mpi-inf.mpg.de/hlcv">High-Level Computer Vision</a> at <a href="https://www.uni-saarland.de/">Universität des Saarlandes</a>, 2021
+    Graduate Instruction Assistant, Bioinformatics Laboratory at <a href="https://www.ucsd.edu/">University of California San Diego</a>, Spring 2022
+  </li>
+  <li>
+    Graduate Instruction Assistant, Computational Models of the Brain at <a href="https://www.ucsd.edu/">University of California San Diego</a>, Spring 2021
+  </li>
+  <li>
+    Teaching Assistant, Imperative Programming at <a href="https://www.maastrichtuniversity.nl/">Maastricht University</a>, Spring 2017
+  </li>
+  <li>
+    Teaching Assistant, Introduction to Programming at <a href="https://www.maastrichtuniversity.nl/">Maastricht University</a>, Fall 2016
   </li>
 </ul>
